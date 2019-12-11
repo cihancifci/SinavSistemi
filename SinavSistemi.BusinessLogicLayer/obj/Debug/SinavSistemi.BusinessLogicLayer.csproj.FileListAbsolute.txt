@@ -1,0 +1,31 @@
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.BusinessLogicLayer\obj\Debug\SinavSistemi.BusinessLogicLayer.pdb
