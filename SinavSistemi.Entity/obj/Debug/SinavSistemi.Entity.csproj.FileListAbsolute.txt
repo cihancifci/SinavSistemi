@@ -1,0 +1,10 @@
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.pdb

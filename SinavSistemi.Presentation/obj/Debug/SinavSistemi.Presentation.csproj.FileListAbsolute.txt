@@ -1,0 +1,67 @@
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe.config
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_deneme.resources
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Properties.Resources.resources
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.GenerateResource.Cache
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.exe
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe.config
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_deneme.resources
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.exe
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.pdb
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_giris.resources
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_Ogretmen.resources
+C:\Users\ASUS\Desktop\DERSLER\Makine ve Sınama\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Sinav.resources
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Design.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Fonts.dll
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_giris.resources
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_Ogretmen.resources
+D:\Hamdi\Yedekler\Kisisel\Okul\0Dersler\3.Sınıf\1.Dönem\Yazılım Sınama\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Sinav.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe.config
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.exe
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Presentation.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_deneme.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_giris.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.frm_Ogretmen.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Properties.Resources.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.Sinav.resources
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.csproj.CopyComplete
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.exe
+C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.Presentation\obj\Debug\SinavSistemi.Presentation.pdb
