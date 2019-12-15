@@ -27,5 +27,7 @@ namespace SinavSistemi.DataAccessLayer
             da.Fill(dt);
             return dt;
         }
+
+        
     }
 }

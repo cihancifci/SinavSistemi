@@ -23,3 +23,19 @@ C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSi
 C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.csproj.CopyComplete
 C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.dll
 C:\Users\ASUS\Desktop\yedek\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\sınama\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.DataAccessLayer\obj\Debug\SinavSistemi.DataAccessLayer.pdb

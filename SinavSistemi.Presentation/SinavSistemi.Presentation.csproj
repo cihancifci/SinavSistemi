@@ -33,6 +33,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Charts.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.1.Core, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v18.1.UI, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.1.Wizard, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
     </Reference>
@@ -44,6 +54,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -67,6 +78,18 @@
     <Compile Include="frm_giris.Designer.cs">
       <DependentUpon>frm_giris.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_Istatistlik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Istatistlik.Designer.cs">
+      <DependentUpon>frm_Istatistlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Ogrenci.Designer.cs">
+      <DependentUpon>frm_Ogrenci.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_Ogretmen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,11 +98,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sinav.cs">
+    <Compile Include="frm_Sinav.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sinav.Designer.cs">
-      <DependentUpon>Sinav.cs</DependentUpon>
+    <Compile Include="frm_Sinav.Designer.cs">
+      <DependentUpon>frm_Sinav.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="frm_deneme.resx">
       <DependentUpon>frm_deneme.cs</DependentUpon>
@@ -87,9 +110,16 @@
     <EmbeddedResource Include="frm_giris.resx">
       <DependentUpon>frm_giris.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_Istatistlik.resx">
+      <DependentUpon>frm_Istatistlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Ogrenci.resx">
+      <DependentUpon>frm_Ogrenci.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_Ogretmen.resx">
       <DependentUpon>frm_Ogretmen.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -99,8 +129,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sinav.resx">
-      <DependentUpon>Sinav.cs</DependentUpon>
+    <EmbeddedResource Include="frm_Sinav.resx">
+      <DependentUpon>frm_Sinav.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

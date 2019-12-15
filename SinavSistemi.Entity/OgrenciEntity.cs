@@ -11,6 +11,8 @@ namespace SinavSistemi.Entity
         public int ogrenciID { get; set; }
         public string ogrenciAd { get; set; }
         public string ogrenciSoyad { get; set; }
+        public string ogrenciKullaniciAd { get; set; }
+        public string ogrenciSifre { get; set; }
 
     }
 }

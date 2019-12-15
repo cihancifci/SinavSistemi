@@ -43,11 +43,11 @@ namespace SinavSistemi.DataAccessLayer
             cmd.ExecuteNonQuery();
         }
 
-        public List<SoruEntity> SorularıGetir()
+        public List<SoruEntity> SorularıGetir(int ogrenciID)
         {
             SqlCommand cmd = dbHelper.GetSqlCommand();
-            cmd.CommandText = "EXEC SinavYap SELECT * FROM tbl_Sorulan";
-
+            cmd.CommandText = "EXEC Sinav @ogrenciID = @p1  SELECT * FROM tbl_Sorulan ";
+            cmd.Parameters.AddWithValue("@p1", ogrenciID);
             List<SoruEntity> sorular = new List<SoruEntity>();
             SqlDataReader dr = cmd.ExecuteReader();
             while (dr.Read())

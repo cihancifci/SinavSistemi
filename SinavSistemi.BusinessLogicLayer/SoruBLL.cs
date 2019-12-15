@@ -25,9 +25,9 @@ namespace SinavSistemi.BusinessLogicLayer
              soruDAL.SoruEkle(soru);
         }
 
-        public List<SoruEntity> SorularıGetir()
+        public List<SoruEntity> SorularıGetir(int ogrenciID)
         {
-            return soruDAL.SorularıGetir();
+            return soruDAL.SorularıGetir(ogrenciID);
         }
     }
 }

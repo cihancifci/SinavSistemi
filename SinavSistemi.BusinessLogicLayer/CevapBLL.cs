@@ -21,5 +21,9 @@ namespace SinavSistemi.BusinessLogicLayer
         {
             cevapDAL.CevaplarıEkle(cevaplar);
         }
+        //public int sinavSayiHesapla()
+        //{
+        //    return cevapDAL.sinavSayiHesapla();
+        //}
     }
 }

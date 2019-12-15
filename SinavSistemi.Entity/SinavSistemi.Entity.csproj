@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminEntity.cs" />
+    <Compile Include="BasariEntity.cs" />
     <Compile Include="CevapEntity.cs" />
     <Compile Include="DersEntity.cs" />
     <Compile Include="KonuEntity.cs" />
