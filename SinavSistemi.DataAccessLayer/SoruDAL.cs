@@ -31,7 +31,7 @@ namespace SinavSistemi.DataAccessLayer
         {
             
             SqlCommand cmd = dbHelper.GetSqlCommand();
-            cmd.CommandText = "INSERT INTO tbl_Soru(soruOnBilgi,soruIcerik,soruA,soruB,soruC,soruD,soruDogruCevap,soruKonuID) VALUES(@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8)";
+            cmd.CommandText = "INSERT INTO tbl_Soru(soruOnBilgi,soruIcerik,soruA,soruB,soruC,soruD,soruDogruCevap,soruKonuID,soruResim) VALUES(@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8,@p9)";
             cmd.Parameters.AddWithValue("@p1", soru.soruOnBilgi);
             cmd.Parameters.AddWithValue("@p2", soru.soruIcerik);
             cmd.Parameters.AddWithValue("@p3", soru.soruA);
@@ -40,6 +40,7 @@ namespace SinavSistemi.DataAccessLayer
             cmd.Parameters.AddWithValue("@p6", soru.soruD);
             cmd.Parameters.AddWithValue("@p7", soru.soruDogruCevap);
             cmd.Parameters.AddWithValue("@p8", soru.soruKonuID);
+            cmd.Parameters.AddWithValue("@p9", soru.resimYolu);
             cmd.ExecuteNonQuery();
         }
 
@@ -62,7 +63,7 @@ namespace SinavSistemi.DataAccessLayer
                 soru.soruD = dr["soruD"].ToString();
                 soru.soruDogruCevap = dr["soruDogruCevap"].ToString();
                 soru.soruKonuID = int.Parse(dr["soruKonuID"].ToString()) ;
-
+                soru.resimYolu = dr["soruResim"].ToString();
                 sorular.Add(soru);
             }
             return sorular;

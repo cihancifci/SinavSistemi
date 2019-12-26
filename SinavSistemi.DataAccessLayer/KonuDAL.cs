@@ -17,16 +17,7 @@ namespace SinavSistemi.DataAccessLayer
             dbHelper = new DBHelper();
         }
 
-        public DataTable GetAllItems(KonuEntity konu)
-        {
-            SqlCommand cmd = dbHelper.GetSqlCommand();
-            cmd.CommandText = "SELECT * FROM tbl_Konu";
-            cmd.ExecuteNonQuery();
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            return dt;
-        }
+        
         public List<KonuEntity> KonuGetir()
         {
             

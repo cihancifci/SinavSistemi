@@ -28,6 +28,26 @@ namespace SinavSistemi.DataAccessLayer
             return dt;
         }
 
-        
+        public bool GirisKontrolu(string kullaniciAD, string parola)
+        {
+            SqlCommand cmd = dbHelper.GetSqlCommand();
+            cmd.CommandText = "SELECT * FROM tbl_Ogretmen WHERE ogretmenKullaniciAd = @p1 and ogretmenSifre = @p2";
+            cmd.Parameters.AddWithValue("@p1", kullaniciAD);
+            cmd.Parameters.AddWithValue("@p2", parola);
+            SqlDataReader dr = cmd.ExecuteReader();
+
+            bool kontrol;
+            if (dr.Read())
+            {
+
+                kontrol = true;
+            }
+
+            else kontrol = false;
+
+
+
+            return kontrol;
+        }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.Test.dll.config
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.Test.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.Test.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\nunit.framework.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\nunit.framework.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\nunit.framework.xml
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\obj\Debug\SinavSistemi.Test.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\obj\Debug\SinavSistemi.Test.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\obj\Debug\SinavSistemi.Test.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\obj\Debug\SinavSistemi.Test.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\obj\Debug\SinavSistemi.Test.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.DataAccessLayer.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Test\bin\Debug\SinavSistemi.Entity.pdb

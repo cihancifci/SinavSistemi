@@ -44,7 +44,10 @@ namespace SinavSistemi.DataAccessLayer
                 cmd.ExecuteNonQuery();
             }
             SqlCommand cmd2 = dBHelper.GetSqlCommand();
-            cmd2.CommandText = "EXEC basariOraniHesapla";
+            cmd2.CommandText = "EXEC BasariOraniniHesapla @p1 , @p2";
+            cmd2.Parameters.AddWithValue("@p1", cevaplar[1].cevapOgrenciID);
+            cmd2.Parameters.AddWithValue("@p2", sinavID);
+
             cmd2.ExecuteNonQuery();
 
         }

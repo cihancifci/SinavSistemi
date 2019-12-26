@@ -17,16 +17,6 @@ namespace SinavSistemi.DataAccessLayer
             dbHelper = new DBHelper();
         }
 
-        public DataTable GetAllItems(OgrenciEntity ogrenci)
-        {
-            SqlCommand cmd = dbHelper.GetSqlCommand();
-            cmd.CommandText = "SELECT * FROM tbl_Ogrenci";
-            cmd.ExecuteNonQuery();
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            return dt;
-        }
 
         public int GirisKontrolu(string kullaniciAD, string parola)
         {
