@@ -16,7 +16,7 @@ namespace SinavSistemi.Presentation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_giris());
+            Application.Run(new frmgiris());
         }
     }
 }
