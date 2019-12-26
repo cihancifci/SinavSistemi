@@ -16,10 +16,7 @@ namespace SinavSistemi.BusinessLogicLayer
         {
             konuDAL = new KonuDAL();
         }
-        public DataTable GetAllItems(KonuEntity konu)
-        {
-            return konuDAL.GetAllItems(konu);
-        }
+        
         public List<KonuEntity> KonuGetir()
         {
             return konuDAL.KonuGetir();

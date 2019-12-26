@@ -20,7 +20,7 @@ namespace SinavSistemi.Entity
         public string soruC { get; set; }
         public string soruD { get; set; }
         public string soruDogruCevap { get; set; }
-
+        public string resimYolu { get; set; }
 
     }
 }

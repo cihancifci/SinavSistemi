@@ -16,9 +16,9 @@ namespace SinavSistemi.BusinessLogicLayer
         {
             ogrenciDAL = new OgrenciDAL();
         }
-        public DataTable GetAllItems(OgrenciEntity ogrenci)
+        public List<OgrenciEntity> OgrenciGetir()
         {
-            return ogrenciDAL.GetAllItems(ogrenci);
+            return ogrenciDAL.OgrencileriGetir();
         }
 
         public int GirisKontrolu(string kullaniciAd, string parola)

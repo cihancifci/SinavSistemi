@@ -20,5 +20,11 @@ namespace SinavSistemi.BusinessLogicLayer
         {
             return ogretmenDAL.GetAllItems(ogretmen);
         }
+
+        public bool GirisKontrolu(string kullaniciAd, string parola)
+        {
+
+            return ogretmenDAL.GirisKontrolu(kullaniciAd, parola);
+        }
     }
 }

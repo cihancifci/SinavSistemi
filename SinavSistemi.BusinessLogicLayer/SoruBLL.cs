@@ -22,7 +22,7 @@ namespace SinavSistemi.BusinessLogicLayer
         }
         public void SoruEkle(SoruEntity soru)
         {
-             soruDAL.SoruEkle(soru);
+                soruDAL.SoruEkle(soru);
         }
 
         public List<SoruEntity> SorularıGetir(int ogrenciID)

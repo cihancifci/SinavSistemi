@@ -12,6 +12,8 @@ namespace SinavSistemi.Entity
         public string ogretmenAd { get; set; }
         public string ogretmenSoyad { get; set; }
         public string ogretmenBrans { get; set; }
+        public string ogretmenKullaniciAd { get; set; }
+        public string ogretmenSifre { get; set; }
 
     }
 }

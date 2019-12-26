@@ -19,3 +19,14 @@ C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.Entity\obj\Debug\Sinav
 C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.dll
 C:\Users\ASUS\Desktop\Yeni klasör (2)\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\SinavSistemi\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\SinavSistemi\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\SinavSistemi\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Masaüstü\SinavSistemi\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\SinavSistemi\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\bin\Debug\SinavSistemi.Entity.pdb
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.dll
+C:\Users\ASUS\Desktop\Proje\SinavSistemi.Entity\obj\Debug\SinavSistemi.Entity.pdb
