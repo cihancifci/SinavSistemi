@@ -149,7 +149,7 @@
             this.btn_Cevapla.IconZoom = 90D;
             this.btn_Cevapla.IsTab = false;
             this.btn_Cevapla.Location = new System.Drawing.Point(299, 369);
-            this.btn_Cevapla.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btn_Cevapla.Margin = new System.Windows.Forms.Padding(5);
             this.btn_Cevapla.Name = "btn_Cevapla";
             this.btn_Cevapla.Normalcolor = System.Drawing.Color.DimGray;
             this.btn_Cevapla.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
@@ -185,7 +185,7 @@
             this.btn_SinavBitir.IconZoom = 90D;
             this.btn_SinavBitir.IsTab = false;
             this.btn_SinavBitir.Location = new System.Drawing.Point(716, 434);
-            this.btn_SinavBitir.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btn_SinavBitir.Margin = new System.Windows.Forms.Padding(5);
             this.btn_SinavBitir.Name = "btn_SinavBitir";
             this.btn_SinavBitir.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(139)))), ((int)(((byte)(87)))));
             this.btn_SinavBitir.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
@@ -194,7 +194,7 @@
             this.btn_SinavBitir.Size = new System.Drawing.Size(236, 59);
             this.btn_SinavBitir.TabIndex = 54;
             this.btn_SinavBitir.Text = "Sınavı Bitir !";
-            this.btn_SinavBitir.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btn_SinavBitir.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.btn_SinavBitir.Textcolor = System.Drawing.Color.White;
             this.btn_SinavBitir.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_SinavBitir.Click += new System.EventHandler(this.btn_SinavBitir_Click);
@@ -221,7 +221,7 @@
             this.btn_Sonraki.IconZoom = 90D;
             this.btn_Sonraki.IsTab = false;
             this.btn_Sonraki.Location = new System.Drawing.Point(901, 212);
-            this.btn_Sonraki.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btn_Sonraki.Margin = new System.Windows.Forms.Padding(5);
             this.btn_Sonraki.Name = "btn_Sonraki";
             this.btn_Sonraki.Normalcolor = System.Drawing.Color.DimGray;
             this.btn_Sonraki.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
@@ -256,7 +256,7 @@
             this.btn_Onceki.IconZoom = 90D;
             this.btn_Onceki.IsTab = false;
             this.btn_Onceki.Location = new System.Drawing.Point(1, 212);
-            this.btn_Onceki.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btn_Onceki.Margin = new System.Windows.Forms.Padding(5);
             this.btn_Onceki.Name = "btn_Onceki";
             this.btn_Onceki.Normalcolor = System.Drawing.Color.DimGray;
             this.btn_Onceki.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(36)))), ((int)(((byte)(129)))), ((int)(((byte)(77)))));
@@ -387,7 +387,7 @@
             this.tbn_Cikis.Image = ((System.Drawing.Image)(resources.GetObject("tbn_Cikis.Image")));
             this.tbn_Cikis.ImageActive = null;
             this.tbn_Cikis.Location = new System.Drawing.Point(891, 0);
-            this.tbn_Cikis.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbn_Cikis.Margin = new System.Windows.Forms.Padding(4);
             this.tbn_Cikis.Name = "tbn_Cikis";
             this.tbn_Cikis.Size = new System.Drawing.Size(75, 52);
             this.tbn_Cikis.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -430,7 +430,7 @@
             this.Controls.Add(this.rdo_B);
             this.Controls.Add(this.rdo_A);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmSinav";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmSinav";

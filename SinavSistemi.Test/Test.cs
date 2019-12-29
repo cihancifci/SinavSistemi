@@ -40,6 +40,7 @@ namespace SinavSistemi.Test
             soru.soruIcerik = "işelminin sonucu kaçtır ?";
             soru.soruOnBilgi = "893 + 354";
             soru.soruKonuID = 1;
+            soru.resimYolu = "";
             soruBll.SoruEkle(soru);
             Assert.Pass();
         }

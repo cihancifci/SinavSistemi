@@ -63,8 +63,8 @@ namespace SinavSistemi.Presentation
 
         private void btn_soruekle_Click(object sender, EventArgs e)
         {
-            //try
-            //{
+            try
+            {
                 SoruEntity soru = new SoruEntity
                 {
                     soruA = txt_A.Text,
@@ -87,14 +87,15 @@ namespace SinavSistemi.Presentation
                 {
                     sbll.SoruEkle(soru);
                     MessageBox.Show("Başarılı");
+                    Temizle();
                 }
 
-            //}
-            //catch (Exception)
-            //{
-            //    MessageBox.Show("Eksik veya hatalı bilgi girdiniz!");
-            //}
         }
+            catch (Exception)
+            {
+                MessageBox.Show("Eksik veya hatalı bilgi girdiniz!");
+            }
+}
 
         private void btn_Cikis_Click(object sender, EventArgs e)
         {
@@ -126,17 +127,32 @@ namespace SinavSistemi.Presentation
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        public void Temizle()
         {
-            OpenFileDialog fileDialog = new OpenFileDialog();
-            fileDialog.ShowDialog();
-            resim.ImageLocation = fileDialog.FileName;
-            txt_resimYolu.Text = fileDialog.FileName;
+            txt_A.Text = "";
+            txt_B.Text = "";
+            txt_C.Text = "";
+            txt_D.Text = "";
+            rctxt_onbilgi.Text = "";
+            cmb_dogrucevap.Text = "";
+            txt_icerik.Text = "";
+            cmb_konu.Text = "";
+            txt_resimYolu.Text = "";
+            resim.ImageLocation = null;
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            OpenFileDialog fileDialog = new OpenFileDialog();
+            fileDialog.ShowDialog();
+            resim.ImageLocation = fileDialog.FileName;
+            txt_resimYolu.Text = fileDialog.FileName;
         }
     }
 }

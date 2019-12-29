@@ -22,7 +22,7 @@ namespace SinavSistemi.Presentation
         SoruBLL sorubll = new SoruBLL();
         List<SoruEntity> sorular;
         public int ogrenciID;
-        int sure = 15;
+        int sure = 300;
 
 
         CevapBLL cevapBLL = new CevapBLL();
@@ -135,16 +135,31 @@ namespace SinavSistemi.Presentation
 
         private void btn_Sonraki_Click(object sender, EventArgs e)
         {
-            i++;
-            temizle();
-            SoruGoster(i);
+            if (i<19)
+            {
+                i++;
+                temizle();
+                SoruGoster(i);
+            }
+            else if (i==19)
+            {
+                btn_Sonraki.Visible = false;
+                btn_SinavBitir.Visible = true;
+            }
+            
         }
 
         private void btn_Onceki_Click(object sender, EventArgs e)
         {
-            i--;
-            temizle();
-            SoruGoster(i);
+            if (i>0)
+            {
+                i--;
+                btn_Sonraki.Visible = true;
+                temizle();
+                SoruGoster(i);
+
+            }
+            
         }
 
         private void Sure_Tick(object sender, EventArgs e)
